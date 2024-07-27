@@ -49,9 +49,10 @@ parameters.
 methods to display the personal details and insurance details of the individual.
 ## Screenshots
 
-![alt text](<Screenshot 2024-07-27 213047.png>)
-![alt text](<Screenshot 2024-07-27 213256.png>) ![alt text](<Screenshot 2024-07-27 213227.png>) ![alt text](<Screenshot 2024-07-27 213245.png>)
-
+![alt text](<Snaps/Screenshot 2024-07-27 213047.png>)
+![alt text](<Snaps/Screenshot 2024-07-27 213227.png>)
+![alt text](<Snaps/Screenshot 2024-07-27 213245.png>)
+![alt text](<Snaps/Screenshot 2024-07-27 213256.png>)
 ## Conclusion
 The provided Java program is designed to assess an individual's dental health and calculate dental
 insurance rates based on various input parameters. Here's a conclusion summarizing its key
